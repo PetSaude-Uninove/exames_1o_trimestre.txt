@@ -1,0 +1,23 @@
+​# Exames de Triagem do 1º Trimestre - Pré-Natal
+
+## 🎯 Objetivos do Projeto
+- **Padronização:** Definir a lista oficial de exames laboratoriais e de imagem recomendados para o 1º trimestre de gestação (até às 13 semanas e 6 dias).
+- **Integração no Aplicativo:** Servir de estrutura de dados/guia de referência para a equipa de desenvolvimento integrar na aplicação de saúde.
+- **Acompanhamento Pré-Natal:** Garantir o rastreio precoce de infeções, anemias, alterações metabólicas e anomalias fetais.
+
+## 📋 Conteúdo do Repositório
+- Lista detalhada de exames (Hemograma, Tipagem Sanguínea, Sorologias, Urina e Ultrassonografias).
+- Descrição de periodicidade e critérios de obrigatoriedade.
+
+Tipagem Sanguínea e Fator Rh (com Coombs indireto se a gestante for Rh negativo)
+​Hemograma Completo (rastreamento de anemia e infecções)
+​Glicemia em Jejum (rastreamento de diabetes gestacional)
+​Sorologias e Testes Rápidos:
+​Sífilis (VDRL / Teste Rápido)
+​HIV (Sorologia / Teste Rápido)
+​Toxoplasmose (IgG e IgM)
+​Hepatite B (HBsAg)
+​Rubéola (se não vacinada ou sem histórico registrado)
+​Exame de Urina: Urina tipo 1 (EAS) e Urocultura com antibiograma
+USG Obstétrica Inicial / Transvaginal (para confirmação e datação da idade gestacional)
+​USG de Translucência Nucal (rastreamento cromossômico entre 11ª e 13ª semana + 6 dias)
